@@ -44,5 +44,3 @@ Activar en este orden, sin complicarse:
 1. **Require a pull request before merging** (lo más básico)
 2. **Require approvals** (mínimo 1)
 3. **Require status checks** (cuando haya CI/CD configurado)
-
-**No activar todo de golpe.** Demasiadas reglas al principio vuelven el flujo lento e insoportable.
