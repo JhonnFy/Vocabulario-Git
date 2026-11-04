@@ -1,6 +1,6 @@
 # Vocabulario-Git
 Vocabulario Git
-
+ 
 
 ## Descartar Cambios Locales
 git restore NetTicket/NetTicket/Data/RepositoriesCRUD/CategoriaRepository.cs
@@ -44,3 +44,8 @@ Activar en este orden, sin complicarse:
 1. **Require a pull request before merging** (lo más básico)
 2. **Require approvals** (mínimo 1)
 3. **Require status checks** (cuando haya CI/CD configurado)
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c5d1b875-8685-42eb-84e4-d19c36bbb4a7" />
+
+
+
